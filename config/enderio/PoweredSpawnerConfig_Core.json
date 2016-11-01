@@ -21,7 +21,7 @@
 
     "SnowMan" : "1",
     "VillagerGolem" : "10",
-    "Villager" : "15",
+    "Villager" : "1",
 
     "Wolf" : "1",
     "Ozelot" : "1",
@@ -45,5 +45,6 @@
 
   "blackList": [
     "VillagerGolem",
+    "Villager"
   ]
 }
