@@ -1,0 +1,32 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "minecraft",
+      "path": "nether_star"
+    },
+    "meta": 0
+  },
+  "components": [
+    {
+      "weight": 150,
+      "oreName": "oreDiamond"
+    },
+    {
+      "weight": 100,
+      "oreName": "oreEmerald"
+    },
+	{
+      "weight": 250,
+      "oreName": "glowstone"
+    },
+    {
+      "weight": 250,
+      "oreName": "oreQuartz"
+    }
+    
+  ],
+  "explosionStrength": 15.0,
+  "radius": 3,
+  "maxWeight": 1000,
+  "version": 2
+}
